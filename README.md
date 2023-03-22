@@ -12,3 +12,7 @@ ddddocr==1.4.7,pyinstaller==4.5
 ![图片](https://user-images.githubusercontent.com/39888034/226937869-104f4613-df44-4b51-b569-2907da741b1d.png)
 
 若下载过程中自动退出，可以自行下载验证码到images目录下，点击ocr进行识别，或者自行打包构建，相关代码均在本git中。
+
+验证码识别.exe.mp4
+https://www.aliyundrive.com/s/2sH2ZYqD1Ti
+提取码: gc96
