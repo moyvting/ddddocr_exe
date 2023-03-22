@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['ocrui.py'],
-             pathex=['C:\\python3\\Lib\\site-packages', 'C:\\Users\\xianyv\\PycharmProjects\\ocr'],
+             pathex=['C:\\python3\\Lib\\site-packages'],
              binaries=[],
              datas=[('C:\\python3\\Lib\\site-packages\\onnxruntime\\capi\\onnxruntime_providers_shared.dll','onnxruntime\\capi'),('C:\\python3\\Lib\\site-packages\\ddddocr\\common.onnx','ddddocr'),('C:\\python3\\Lib\\site-packages\\ddddocr\\common_old.onnx','ddddocr')],
              hiddenimports=[],
