@@ -1,0 +1,4 @@
+pyinstaller  -w -F .\ocrui.py -p C:\python3\Lib\site-packages
+datas=[('C:\\python3\\Lib\\site-packages\\onnxruntime\\capi\\onnxruntime_providers_shared.dll','onnxruntime\\capi'),('C:\\python3\\Lib\\site-packages\\ddddocr\\common.onnx','ddddocr'),('C:\\python3\\Lib\\site-packages\\ddddocr\\common_old.onnx','ddddocr')],
+删除build dist
+pyinstaller  .\ocrui.spec
